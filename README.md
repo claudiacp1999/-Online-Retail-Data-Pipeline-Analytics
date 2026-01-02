@@ -81,7 +81,8 @@ WHERE ctid IN (
 
 El Dashboard final (Dashboard.pbix) consume el modelo limpio y responde preguntas clave:
 
-<img width="1415" height="768" alt="imagen" src="https://github.com/user-attachments/assets/8a443b49-437d-4fed-b575-5e6f81993445" />
+<img width="1416" height="765" alt="imagen" src="https://github.com/user-attachments/assets/dfc083eb-200d-42d2-9822-c23bdc43dd80" />
+
 
     Análisis de productos: Identificación de productos con mayores cantidades vendidas netas y los productos con más devoluciones.
 
